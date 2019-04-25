@@ -1,5 +1,5 @@
 export let config = {
-    "token": "NTU5MDE1OTA2OTY2MjQxMjkx.XMD_rw.xCv9N0N3CyfYCxQuCmo48ECfUhM",
+    "token": "",
     "prefix": "!",
     "commands": [
         "purge",
